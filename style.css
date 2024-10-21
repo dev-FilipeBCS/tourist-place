@@ -1,0 +1,40 @@
+:root {
+  font-family: "Open Sans", sans-serif;
+
+  background-color: #F5F4F0;
+}
+
+main{
+    padding: 88px 80px;
+}
+
+.center {
+    text-align: center;
+    padding: 0 0 40px;
+}
+
+.orange {
+    color: #E95E10;
+}
+
+h1{
+    padding: 0 0 40px;
+}
+
+img {
+    display: flex;
+    margin: auto;
+    border-radius: 28px; 
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    padding: 0 20px;
+    margin: 0px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color:black;
+}
