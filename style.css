@@ -2,6 +2,7 @@
   font-family: "Open Sans", sans-serif;
 
   background-color: #F5F4F0;
+  color: #1B1B1B;
 }
 
 main{
@@ -13,12 +14,33 @@ main{
     padding: 0 0 40px;
 }
 
-.orange {
+.headline-orange {
+    color: #E1624F;
+}
+
+.Blue {
+    color: #0C51A7;
+}
+
+.Purple {
+    color: #591B98;
+}
+
+.Pink {
+    color: #E5245E;
+}
+
+.accent-orange {
     color: #E95E10;
 }
 
 h1{
     padding: 0 0 40px;
+    color: #1B1B1B;
+}
+
+h2 {
+    color: #1B1B1B;
 }
 
 img {
@@ -27,11 +49,6 @@ img {
     border-radius: 28px; 
     width: 100%;
     height: auto;
-}
-
-ul {
-    padding: 0 20px;
-    margin: 0px;
 }
 
 a:link, a:visited{
